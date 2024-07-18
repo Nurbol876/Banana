@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Banana/static/css/main.f72822ed.css",
+    "main.js": "/Banana/static/js/main.e1e3a42a.js",
+    "static/media/bgcontact.png": "/Banana/static/media/bgcontact.b384781a099bd8b6d4f8.png",
+    "static/media/infobg.png": "/Banana/static/media/infobg.dbee6387641d5ca852ab.png",
+    "static/media/onion.svg": "/Banana/static/media/onion.778197cb32c64e8e6af105cc930ca27d.svg",
+    "static/media/wearehere.svg": "/Banana/static/media/wearehere.07a9026f95be3dfb79b45e5ef8ef75d9.svg",
+    "static/media/chef.svg": "/Banana/static/media/chef.baf33911e54483dd1d013fecac0e9390.svg",
+    "static/media/instagram.svg": "/Banana/static/media/instagram.2a0909f8f7d11b6014d4273edb558717.svg",
+    "static/media/vkontakte-logo.svg": "/Banana/static/media/vkontakte-logo.8aee1f7b99d50f0544bc9eaa639f2cb1.svg",
+    "static/media/video-play-button.svg": "/Banana/static/media/video-play-button.da51e22dd96ac77c0c3b052ae006b2ae.svg",
+    "static/media/flash.svg": "/Banana/static/media/flash.a5c0474d2f8f1a4d0864a55c8938a072.svg",
+    "static/media/Location.svg": "/Banana/static/media/Location.4b7cb0423c5e92b606d4fb9f0ecabf38.svg",
+    "static/media/Message.svg": "/Banana/static/media/Message.e8677a59d6514436f77a74bd7b616e99.svg",
+    "static/media/facebook.svg": "/Banana/static/media/facebook.a62247470cd297e0fb71db88557ac65e.svg",
+    "static/media/arrow.svg": "/Banana/static/media/arrow.37ff927200eaaabf907f03833fed1492.svg",
+    "index.html": "/Banana/index.html",
+    "static/media/leftarrow.svg": "/Banana/static/media/leftarrow.00d056450f3738d7367c1016122dd98c.svg",
+    "static/media/getFetch.cjs": "/Banana/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.f72822ed.css.map": "/Banana/static/css/main.f72822ed.css.map",
+    "main.e1e3a42a.js.map": "/Banana/static/js/main.e1e3a42a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f72822ed.css",
+    "static/js/main.e1e3a42a.js"
+  ]
+}
