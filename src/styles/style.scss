@@ -1,0 +1,61 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  outline: none;
+  font-family: "Roboto", sans-serif;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+.container {
+  max-width: calc(1200px - 40px);
+  margin-inline: auto;
+}
+
+.basket {
+  cursor: pointer;
+  border: none;
+  display: flex;
+  align-items: center;
+  column-gap: 12px;
+  padding: 7px 13px 7px 24px;
+  border-radius: 10px;
+  background: linear-gradient(133deg, #618967 0%, #72A479 100%);
+  &-text {
+    display: flex;
+    align-items: center;
+    height: 38px;
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 600;
+    padding-right: 20px;
+    border-right: 1px solid rgba(255, 255, 255, 0.30);
+  }
+  &-count {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: #FFF;
+    width: 24px;
+    height: 24px;
+    color: #403C3B;
+    font-size: 12px;
+    font-weight: 600;
+  }
+}
+
+@import "header";
+@import "navbar";
+@import "menu";
+@import "card";
+@import "info";
+@import "contact";
+@import "product";
+@import "footer";

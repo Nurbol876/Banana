@@ -1,0 +1,95 @@
+.contact{
+  background: url("../assets/bgcontact.png") center/cover no-repeat;
+  padding: 70px 0 40px 69px;
+  position: relative;
+  &__content{
+    border-radius: 15px;
+    background: #2E2B2C;
+    box-shadow: 0 0 70px 0 rgba(0, 0, 0, 0.15);
+    width: 526px;
+    &-top{
+      border-bottom: 1px solid  rgba(255, 255, 255, 0.15);
+      padding: 25px 0 24px 43px;
+    }
+    &-center{
+      border-bottom: 1px solid  rgba(255, 255, 255, 0.15);
+      padding: 15px 0 28px 52px;
+      &-item{
+        display: flex;
+        column-gap: 11px;
+        align-items: flex-start;
+        &:first-child{
+          margin-bottom: 21px;
+        }
+      }
+    }
+    &-bottom{
+      padding: 17px 42px 24px 52px;
+      .contact__title{
+        font-size: 23px;
+      }
+      &-title{
+        color: #FFF;
+        font-size: 16px;
+        font-weight: 600;
+      }
+      &-top{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+    }
+  }
+  &__title{
+    color: #FFF;
+    font-size: 30px;
+    font-weight: 700;
+  }
+  &__subtitle{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 5px;
+    max-width: 391px;
+  }
+  &__desk{
+    color: #CFCFCF;
+    font-size: 13px;
+    font-weight: 400;
+  }
+  &__btn{
+    border-radius: 10px;
+    background: linear-gradient(133deg, #618967 0%, #72A479 100%);
+    padding: 22px 30px 21px;
+    color: #FFF;
+    font-size: 13px;
+    font-weight: 700;
+    border: 1px solid #618967;
+    &:hover{
+      background: transparent;
+    }
+  }
+  &__icon{
+    width: 24px;
+    height: 24px;
+  }
+  &__web{
+    display: flex;
+    column-gap: 26px;
+    justify-content: center;
+    margin-top: 30px;
+  }
+  &__list{
+    display: flex;
+    column-gap: 10px;
+    align-items: center;
+  }
+  &__location{
+    width: 98px;
+    height: 112px;
+    position: absolute;
+    top: 220px;
+    right: 325px;
+  }
+}

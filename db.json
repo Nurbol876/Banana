@@ -1,0 +1,805 @@
+{ 
+  "categories": ["Закуски", "Первые Блюда", "Мангал", "Уйгурские блюда", "Пицца(большая)", "Пицца(маленькая)", "Плов", "Манты", "Салаты", "Напитки"], 
+  "products": [ 
+    { 
+      "id": 1, 
+      "title": "Баклажаны по восточному", 
+      "subtitle": "Баклажаны, помидоры, чеснок, кинза, специи", 
+      "weight": 220, 
+      "price": 380, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/photo-2021-10-26_13.51.30_gYv9cYH/ed1f0a1cc02832d39ec74dea61a37da5.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Закуски" 
+    }, 
+    { 
+      "id": 2, 
+      "title": "Рулетики из баклажанов", 
+      "subtitle": "Баклажаны, помидоры, зелень, майонез", 
+      "weight": 260, 
+      "price": 390, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/ruletiki_iz_baklazhan/5c4b42453a60ee55b88eeb05dda74be3.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Закуски" 
+    }, 
+    { 
+      "id": 3, 
+      "title": "Рыбное ассорти", 
+      "subtitle": "Семга, эскалар, горбуша, скумбрия", 
+      "weight": 350, 
+      "price": 1310, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/rybnoe_assorti_uF9yWNR/65cfb38f4853026374c9a9b5e02966c6.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Закуски" 
+    }, 
+    { 
+      "id": 4, 
+      "title": "Перец фаршированный", 
+      "subtitle": "Острый перец, начиненный говядиной и обжаренный в яичном кляре", 
+      "weight": 200, 
+      "price": 380, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/perets_farshirovannyj_q9c6BfQ/afa7e424f831b2cd557931886b7e7302.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Закуски" 
+    }, 
+    { 
+      "id": 5, 
+      "title": "Мясная тарелка", 
+      "subtitle": "Казы, говяжий язык, шпигованная говядина", 
+      "weight": 240, 
+      "price": 730, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/mjasnaja_tarelka_TLD9PnD/65423adb1a3f6c8039354216e979bbf9.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Закуски" 
+    }, 
+    { 
+      "id": 6, 
+      "title": "Овощное ассорти", 
+      "subtitle": "Помидоры, огурцы, зелень, болгарский перец, брынза", 
+      "weight": 350, 
+      "price": 390, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/ovoschnoe_assorti_tQhQKIp/3f540a85c3d3db0d04755425ad1c18fd.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Закуски" 
+    }, 
+    { 
+      "id": 7, 
+      "title": "Селедка с картошкой", 
+      "subtitle": "Сельдь, отварной картофель, маринованные огурцы, лук", 
+      "weight": 300, 
+      "price": 380, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/seledka_s_kartoshkoj_r2M7eTc/b05156e451a028810abe7bde2cddba0f.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Закуски" 
+    }, 
+    { 
+      "id": 8, 
+      "title": "Домашние соленья", 
+      "subtitle": "Маринованные грибы, помидоры чери, корнишоны, маринованая капуста", 
+      "weight": 500, 
+      "price": 560, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/domashnie_solenja_1396h2A/8978fde9d5e2063a59b532396c95b976.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Закуски" 
+    }, 
+    { 
+      "id":9, 
+      "title": "Пельмени с бульоном", 
+      "subtitle": "пельмени из говядины, сметана, укроп", 
+      "weight": 450, 
+      "price": 255, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/Pelmeni_s_bulonom_THjjgGf_gndEIEw/25499fb54563fb0e4e72d75dbaac891b.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Первые Блюда" 
+    }, 
+    { 
+      "id": 10,
+      "title": "Бедона шорпо", 
+      "subtitle": "Перепелка, фрикадельки, картофель, морковь, лук, болгарский перец", 
+      "weight": 500, 
+      "price": 500, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/bedona_shorpo_oLkyi68/72b5195187cf28e4d3054fd73b3e8bed.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Первые Блюда" 
+    }, 
+    { 
+      "id": 11, 
+      "title": "Чечевичный крем-суп", 
+      "subtitle": "Чечевица, картофель, болгарский перец, лимон", 
+      "weight": 300, 
+      "price": 230, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/chechevichnyj_krem-sup/e81aedfa342f052598da5cdb6dac45d1.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Первые Блюда" 
+    }, 
+    { 
+      "id": 12, 
+      "title": "Окрошка", 
+      "subtitle": "Яйца, огурцы, редис, говядина, картофель, зелень", 
+      "weight": 300, 
+      "price": 255, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/okroshka_u9iK5Si/8cff3f01c96bc8acd62dab251f7ea9be.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Первые Блюда" 
+    }, 
+    { 
+      "id": 13, 
+      "title": "Чучвара 1пор", 
+      "subtitle": "Говядина, пельмешки, морковь, редька, болгарский перец, сметана", 
+      "weight": 420, 
+      "price": 240, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/chuchvara_GIsjWcw/779db5ff684bc20cd6267e246579c265.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Первые Блюда" 
+    }, 
+    { 
+      "id": 14, 
+      "title": "Чучвара 0,7пор", 
+      "subtitle": "Говядина, пельмешки, морковь, редька, болгарский перец, сметана", 
+      "weight": 350, 
+      "price": 220, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/chuchvara_z6mYWCW/b0fc0a526016c8bf4a9bd3b4c70cb999.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Первые Блюда" 
+    }, 
+    { 
+      "id": 15, 
+      "title": "Суп с фрикадельками 1пор", 
+      "subtitle": "Фрикадельки из говядины, картофель, морковь, болгарский перец, зелень", 
+      "weight": 400, 
+      "price": 250, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/sup_s_frikadelkami_zchOh5h/3e384801f609006ce9d8256d030720f1.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Первые Блюда" 
+    }, 
+    { 
+      "id": 16, 
+      "title": "Суп с фрикадельками 0,7пор", 
+      "subtitle": "Фрикадельки из говядины, картофель, морковь, болгарский перец, зелень", 
+      "weight": 300, 
+      "price": 230, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/sup_s_frikadelkami_PGg6odC/a1bedc448b32a8ac30a819b65cbe214b.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Первые Блюда" 
+    }, 
+    { 
+      "id": 17, 
+      "title": "Оромо джигар", 
+      "subtitle": "печень завернутая в жир", 
+      "weight": 110, 
+      "price": 200, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/oromo_dzhigar_iRJTBCz_kymmHZD_hXgtiJi/daae0e3b1a9bbaf4b4733b1960bc8b34.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Мангал" 
+    }, 
+    { 
+      "id": 18, 
+      "title": "Бухара шашлык", 
+      "subtitle": "Сочные рулетики из говядины с бараньим внутренним жиром и специями", 
+      "weight": 100, 
+      "price": 210, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/shashlyk_buhara_VnnQsdH/0a9fe671fd19ec55a0f08b644019bb86.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Мангал" 
+    }, 
+    { 
+      "id": 19, 
+      "title": "Джаз баранина", 
+      "subtitle": "Шашлык из баранины, подается со свежим луком", 
+      "weight": 80,
+      "price": 210, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/dzhaz_baranina_ZoAQcBe/d750d7d1bec43aeb598e040ef1dedb44.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Мангал" 
+    }, 
+    { 
+      "id": 20, 
+      "title": "Джаз говядина", 
+      "subtitle": "Шашлык из говядины, подается со свежим луком", 
+      "weight": 80, 
+      "price": 210, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/Dzhaz_govjadina_3PhB6fl/7217c6c7d9ae920418ea5c4c47d64ed9.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Мангал" 
+    }, 
+    { 
+      "id": 21, 
+      "title": "Кофта", 
+      "subtitle": "Рубленный сочный шашлык из говядины", 
+      "weight": 100, 
+      "price": 200, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/kofta_rQfWg8r/d3cc5e0f3c4f9ba334fa7d48af4289bf.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Мангал" 
+    }, 
+    { 
+      "id": 22, 
+      "title": "Форель на углях", 
+      "subtitle": "Форель, приготовленная на мангале", 
+      "weight": 220, 
+      "price": 590, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/forel_na_ugljah_MVesnUz/53ce3d02b844badb1b5151843f6a64ba.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Мангал" 
+    }, 
+    { 
+      "id": 23, 
+      "title": "Шашлык куринные крылышки", 
+      "subtitle": "Шашлык из куриных крыльев, подается со свежим луком", 
+      "weight": 200, 
+      "price": 300, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/shashlyk_kur_krylja_ZFFgdZt/978bfbdd7cedb30d6a94855054585274.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Мангал" 
+    }, 
+    { 
+      "id": 24, 
+      "title": "Уч-панжа", 
+      "subtitle": "Говядина, думба", 
+      "weight": 220, 
+      "price": 630, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/uch_pandzha_p6hRVDv/57676fec81a840732ea8b4bddfaadd6a.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Мангал" 
+    }, 
+    { 
+      "id": 25, 
+      "title": "Соумян", 
+      "subtitle": "Говядина, болгарский перец, лук, тесто, специи", 
+      "weight": 400, 
+      "price": 310, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/soumjan_iaeuvMf/26fcbbcf2979a60c73ca07c6884b0c34.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Уйгурские блюда" 
+    }, 
+    { 
+      "id": 26, 
+      "title": "Фунчеза сяй", 
+      "subtitle": "Говядина, фунчеза, болгарский перец, лук, специи", 
+      "weight": 350, 
+      "price": 410, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/funcheza_sjaj_UlA2Ja8/2aba9b2b4cc9f2135dd6ea1a62721dac.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Уйгурские блюда" 
+    }, 
+    { 
+      "id": 27, 
+      "title": "Мишуру", 
+      "subtitle": "Говядина, черные грибы, болгарский перец, яйца, лук, специи", 
+      "weight": 350, 
+      "price": 440, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/mishuru_lfIrs86/c2b98dd3c1d2477e5a8bb8651464ba51.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Уйгурские блюда" 
+    }, 
+    { 
+      "id": 28, 
+      "title": "Ганфан", 
+      "subtitle": "Говядина, рис, болгарский перец, сельдерей, китайская капуста, специи", 
+      "weight": 500, 
+      "price": 320, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/ganfan_kaVYSjn/38b5f3cd0fa2d16c771b4ef2044b1453.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Уйгурские блюда" 
+    }, 
+    { 
+      "id": 29, 
+      "title": "Казан кебаб говядина", 
+      "subtitle": "Говядина, лук, специи",
+      "weight": 350, 
+      "price": 460, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/kazan-kebab_iz_govjadiny_3uBAJfK/a7d45dd8a17b337bdc04dae7d68d3bc2.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Уйгурские блюда" 
+    }, 
+    { 
+      "id": 30, 
+      "title": "Лагман из куриной грудки", 
+      "subtitle": "Куринная грудка, болгарский перец, лук репчатый, масло растительное, тесто, специи", 
+      "weight": 450, 
+      "price": 310, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/photo-2021-10-26_13.51.23_8sviPkw/08515549995cc7951668d56586ddc25a.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Уйгурские блюда" 
+    }, 
+    { 
+      "id": 31, 
+      "title": "Лагман по домашнему", 
+      "subtitle": "Говядина, болгарский перец, лук репчатый, капуста, тесто, специи", 
+      "weight": 450, 
+      "price": 310, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/photo-2021-10-26_13.51.18_GWcCV0h/23b1a2aa0c0cc2d006c52346df7fa016.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Уйгурские блюда" 
+    }, 
+    { 
+      "id": 32, 
+      "title": "Говядина с черными грибами", 
+      "subtitle": "Говядина, грибы, болгарский перец, лук", 
+      "weight": 350, 
+      "price": 440, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/govjadina_s_chernymi_gribami_Q6OHU9F/5994143999ad9d683ac0ffeb8e00536a.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Уйгурские блюда" 
+    }, 
+    { 
+      "id": 33, 
+      "title": "Четыре сыра", 
+      "subtitle": "Пицца-соус, сыры: моцаррела, эмменталь, дорблю, пармезан", 
+      "weight": 920, 
+      "price": 798, 
+      "images": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v45/Pitstsa_30sm/4_Syira_30sm/Medium.png?hash=f530c2fc1726d73286f6656fd56d59ae", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Пицца(большая)" 
+    }, 
+    { 
+      "id": 34, 
+      "title": "Вегетарианская", 
+      "subtitle": "Пицца-соус, сыр Моцаррела, зелень, лук, шампиньоны, болгарский перец, помидоры, маслины, кукуруза", 
+      "weight": 1000, 
+      "price": 718, 
+      "images": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v32/Pitstsa_30sm/Vegetarianskaia_30sm/Medium.png?hash=5696140c19c5358cc13389a0122876fd", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Пицца(большая)" 
+    }, 
+    { 
+      "id": 35, 
+      "title": "Пепперони", 
+      "subtitle": "Пицца-соус, сыр Моцаррела, салями, шампиньоны", 
+      "weight": 970, 
+      "price": 618, 
+      "images": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v1/Pitstsa_30sm/Pepperoni_30sm/Medium.png?hash=21df342a79807048d67e34d64d9a0d1a", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Пицца(большая)" 
+    }, 
+    { 
+      "id": 36, 
+      "title": "Детская", 
+      "subtitle": "Пицца-соус, сыр Моцаррела, сосиски, помидоры, кукуруза", 
+      "weight": 1110, 
+      "price": 698, 
+      "images": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v1/Pitstsa_40sm/Detskaia_40sm/Medium.png?hash=dbcff2d37ab8ce18b4c3c011ad23f971", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Пицца(большая)" 
+    }, 
+    { 
+      "id": 37, 
+      "title": "Маргарита", 
+      "subtitle": "Пицца-соус, сыр Моцаррела, орегано, помидоры, базилик", 
+      "weight": 800, 
+      "price": 448, 
+      "images": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v1/Pitstsa_40sm/Margarita_40sm/Medium.png?hash=952c6e8d7c96b9496109d569b06518da", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Пицца(большая)" 
+    }, 
+    { 
+      "id": 38, 
+      "title": "Домашняя", 
+      "subtitle": "Пицца-соус, сыр Моцаррела, ветчина, помидоры, шампиньоны, зелень",
+      "weight": 990, 
+      "price": 588, 
+      "images": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v1/Pitstsa_40sm/Domashniaia_40sm/Medium.png?hash=3ee9059fce99b636396b98e16a0aa519", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Пицца(большая)" 
+    }, 
+    { 
+      "id": 39, 
+      "title": "Фрикасе", 
+      "subtitle": "Куринная грудка, грибы Вешенки, кукуруза, сливочный соус, зелень", 
+      "weight": 1150, 
+      "price": 788, 
+      "images": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v1/Pitstsa_40sm/Frikase_40sm/Medium.png?hash=e8771936a83f2e2a14086ad86d22a3ef", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Пицца(большая)" 
+    }, 
+    { 
+      "id": 40, 
+      "title": "Мегапепперони", 
+      "subtitle": "Пицца-соус, сыр Моцаррела, салями, перчики Халапеньо", 
+      "weight": 940, 
+      "price": 678, 
+      "images": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v10/Pitstsa_40sm/Megapepperoni_40sm/Medium.png?hash=f80abeaf0117913c6f626981c349d582", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Пицца(большая)" 
+    }, 
+    { 
+      "id": 41, 
+      "title": "Четыре сыра", 
+      "subtitle": "Пицца-соус, сыры: моцаррела, эмменталь, дорблю, пармезан", 
+      "weight": 560, 
+      "price": 588, 
+      "images": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v45/Pitstsa_30sm/4_Syira_30sm/Medium.png?hash=f530c2fc1726d73286f6656fd56d59ae", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Пицца(маленькая)" 
+    }, 
+    { 
+      "id": 42, 
+      "title": "Вегетарианская", 
+      "subtitle": "Пицца-соус, сыр Моцаррела, зелень, лук, шампиньоны, болгарский перец, помидоры, маслины, кукуруза", 
+      "weight": 500, 
+      "price": 438, 
+      "images": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v32/Pitstsa_30sm/Vegetarianskaia_30sm/Medium.png?hash=5696140c19c5358cc13389a0122876fd", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Пицца(маленькая)" 
+    }, 
+    { 
+      "id": 43, 
+      "title": "Пепперони", 
+      "subtitle": "Пицца-соус, сыр Моцаррела, салями, шампиньоны", 
+      "weight": 570, 
+      "price": 408, 
+      "images": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v1/Pitstsa_30sm/Pepperoni_30sm/Medium.png?hash=21df342a79807048d67e34d64d9a0d1a", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Пицца(маленькая)" 
+    }, 
+    { 
+      "id": 44, 
+      "title": "Детская", 
+      "subtitle": "Пицца-соус, сыр Моцаррела, сосиски, помидоры, кукуруза", 
+      "weight": 650, 
+      "price": 438, 
+      "images": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v1/Pitstsa_40sm/Detskaia_40sm/Medium.png?hash=dbcff2d37ab8ce18b4c3c011ad23f971", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Пицца(маленькая)" 
+    }, 
+    { 
+      "id": 45, 
+      "title": "Маргарита", 
+      "subtitle": "Пицца-соус, сыр Моцаррела, орегано, помидоры, базилик", 
+      "weight": 470, 
+      "price": 278, 
+      "images": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v1/Pitstsa_40sm/Margarita_40sm/Medium.png?hash=952c6e8d7c96b9496109d569b06518da", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Пицца(маленькая)" 
+    }, 
+    { 
+      "id": 46, 
+      "title": "Домашняя", 
+      "subtitle": "Пицца-соус, сыр Моцаррела, ветчина, помидоры, шампиньоны, зелень", 
+      "weight": 580, 
+      "price": 388, 
+      "images": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v1/Pitstsa_40sm/Domashniaia_40sm/Medium.png?hash=3ee9059fce99b636396b98e16a0aa519", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Пицца(маленькая)" 
+    }, 
+    { 
+      "id": 47, 
+      "title": "Фрикасе",   
+      "subtitle": "Куринная грудка, грибы Вешенки, кукуруза, сливочный соус, зелень",
+      "weight": 680, 
+      "price": 538, 
+      "images": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v1/Pitstsa_40sm/Frikase_40sm/Medium.png?hash=e8771936a83f2e2a14086ad86d22a3ef", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Пицца(маленькая)" 
+    }, 
+    { 
+      "id": 48, 
+      "title": "Мегапепперони", 
+      "subtitle": "Пицца-соус, сыр Моцаррела, салями, перчики Халапеньо", 
+      "weight": 450, 
+      "price": 458, 
+      "images": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v10/Pitstsa_40sm/Megapepperoni_40sm/Medium.png?hash=f80abeaf0117913c6f626981c349d582", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Пицца(маленькая)" 
+    }, 
+    { 
+      "id": 49, 
+      "title": "Плов от бренд-шефа Анвара Бабаджанова", 
+      "subtitle": "Рис лазер, рассыпчатый фарш, телятина, красная и желтая морковка, украшается чесноком и перцем чили", 
+      "weight": 3300, 
+      "price": 2700, 
+      "images": "https://navat.kg/dostavka/files/products/plov-ot-anvara-babadzhanova.800x600w.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Плов" 
+    }, 
+    { 
+      "id": 50, 
+      "title": "Плов чайханский", 
+      "subtitle": "Рис лазер, мясо ягненка и теленка, сухофрукты", 
+      "weight": 3300, 
+      "price": 2600, 
+      "images": "https://navat.kg/dostavka/files/products/plov-chajhanskij.800x600w.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Плов" 
+    }, 
+    { 
+      "id": 51, 
+      "title": "Плов узгенский", 
+      "subtitle": "Узгенский рис Девзари, мясо ягненка и теленка, красная и желтая морковка", 
+      "weight": 3300, 
+      "price": 2600, 
+      "images": "https://navat.kg/dostavka/files/products/plov-uzgenskij.800x600w.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Плов" 
+    }, 
+    { 
+      "id": 52, 
+      "title": "Плов ташкентский", 
+      "subtitle": "Рис лазер, мясо ягненка и теленка, красная и желтая морковка и горох, украшается чесноком и сушеным перцем чили", 
+      "weight": 3300, 
+      "price": 2600, 
+      "images": "https://navat.kg/dostavka/files/products/plov-tashkentskij.800x600w.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Плов" 
+    }, 
+    { 
+      "id": 53, 
+      "title": "Плов праздничный", 
+      "subtitle": "Рис лазер, мясо ягненка и курицы, красная и желтая морковка и барбарис, украшается чесноком и сушеным перцем чили", 
+      "weight": 3300, 
+      "price": 2600, 
+      "images": "https://navat.kg/dostavka/files/products/plov-prazdnichnyj.800x600w.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Плов" 
+    }, 
+    { 
+      "id": 54, 
+      "title": "Фирменный плов", 
+      "subtitle": "Рис лазер, мясо ягненка и теленка, украшается казы и куринным яйцом", 
+      "weight": 3300, 
+      "price": 2800, 
+      "images": "https://navat.kg/dostavka/files/products/firmennyj-plov-navat.800x600w.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Плов" 
+    }, 
+    { 
+      "id": 55, 
+      "title": "Хан плов ташкентский", 
+      "subtitle": "Рис лазер, мясо ягненка в золотистом хлебном шкатулке", 
+      "weight": 3800, 
+      "price": 2800, 
+      "images": "https://navat.kg/dostavka/files/products/hanplov.800x600w.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Плов" 
+    }, 
+    { 
+      "id": 56, 
+      "title": "Хан плов чайханский", 
+      "subtitle": "Плов Девзир, мясо теленка и сухофрукты в золотистом хлебном шкатулке", 
+      "weight": 3800, 
+      "price": 2800, 
+      "images": "https://navat.kg/dostavka/files/products/hanplov.800x600w.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Плов" 
+    }, 
+    { 
+      "id": 57, 
+      "title": "Манты с мясом и жусаем", 
+      "subtitle": "Тесто, мясо, жусай",
+      "weight": "5 * 44", 
+      "price": 270, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/manty_s_mjasom_mcGlNEE_5buLDTX/b7af7b33f1daa8bd1dc608c1f45a540e.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Манты" 
+    }, 
+    { 
+      "id": 58, 
+      "title": "Манты с мясом и жусаем", 
+      "subtitle": "1 шт. манты с мясом и жусаем", 
+      "weight": 44, 
+      "price": 55, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/manty_s_mjasom_mcGlNEE_5buLDTX/b7af7b33f1daa8bd1dc608c1f45a540e.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Манты" 
+    }, 
+    { 
+      "id": 59, 
+      "title": "Манты с джусаем", 
+      "subtitle": "Джусай, тесто, лук", 
+      "weight": "5 * 44", 
+      "price": 250, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/manty_s_tykvojdzhusaem_po_sezonu_3wpg6sB/955d3ff75909801f61fff35fc3581f44.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Манты" 
+    }, 
+    { 
+      "id": 60, 
+      "title": "Манты с джусаем", 
+      "subtitle": "1 шт. манты с джусаем", 
+      "weight": 44, 
+      "price": 50, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/manty_s_tykvojdzhusaem_po_sezonu_3wpg6sB/955d3ff75909801f61fff35fc3581f44.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Манты" 
+    }, 
+    { 
+      "id": 61, 
+      "title": "Манты", 
+      "subtitle": "Говядина, тесто, лук", 
+      "weight": "5 * 50", 
+      "price": 310, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/manty_s_mjasom_mcGlNEE/d2cff725fe4efc0a09251e1c95e83b30.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Манты" 
+    }, 
+    { 
+      "id": 62, 
+      "title": "Манты", 
+      "subtitle": "1 шт. манты", 
+      "weight": 50, 
+      "price": 60, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/manty_s_mjasom_mcGlNEE/d2cff725fe4efc0a09251e1c95e83b30.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Манты" 
+    }, 
+    { 
+      "id": 63, 
+      "title": "Манты жареные", 
+      "subtitle": "Жареные в масле манты", 
+      "weight": "5 * 50", 
+      "price": 330, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/manty_zharenye_fAsAIzI/9a9279567f73f0723578af0fb32f1190.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Манты" 
+    }, 
+    { 
+      "id": 64, 
+      "title": "Манты жареные", 
+      "subtitle": "1 шт. манты жареные", 
+      "weight": 50, 
+      "price": 65, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/manty_zharenye_fAsAIzI/9a9279567f73f0723578af0fb32f1190.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Манты" 
+    }, 
+    { 
+      "id": 65, 
+      "title": "Французский салат", 
+      "subtitle": "Капуста, морковь, свекла, маринованные огурцы, картофель пай, говядина, майонез, грецкие орехи", 
+      "weight": 300, 
+      "price": 370, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/azimzhan_n-7452_NcJ5mTT/6508001b5d1e9d146fee87abe51a9844.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Салаты" 
+    }, 
+    { 
+      "id": 66, 
+      "title": "Салат Нежный", 
+      "subtitle": "Крабовые палочки, рис, яйцо, огурцы, майонез, кукуруза, зеленый лук", 
+      "weight": 250, 
+      "price": 330, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/azimzhan_n-7477_HtVWgtn/720e850449367dbc9b7dfcbe0d9d66bb.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Салаты" 
+    }, 
+    { 
+      "id": 67, 
+      "title": "Витаминка", 
+      "subtitle": "капуста, свекла, морковь, яблоки, оливковое масло",
+      "weight": 250, 
+      "price": 230, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/Vitaminka_EyE1W8O_gE2ZxJ3_IZahJtr/44d6a752f0acf4a7791ac6daa2bcdb38.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Салаты" 
+    }, 
+    { 
+      "id": 68, 
+      "title": "Хрустящие баклажаны", 
+      "subtitle": "баклажаны, соус терияки", 
+      "weight": 200, 
+      "price": 370, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/baklazhany_jWnsEoO/b8025dab92bf939e92319267ad6e9088.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Салаты" 
+    }, 
+    { 
+      "id": 69, 
+      "title": "Восточный", 
+      "subtitle": "Огурцы, помидоры, говядина, яичные блины, зеленый горошек, соевый соус, салатное масло", 
+      "weight": 250, 
+      "price": 350, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/vostochnyj_Dj7rhKe/e7b2d1242fe08f830b9225e9ea032b20.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Салаты" 
+    }, 
+    { 
+      "id": 70, 
+      "title": "Винегрет", 
+      "subtitle": "Квашенная капуста, зеленый горошек, свекла, картофель, маринованные огурцы, салатное масло, укроп", 
+      "weight": 250, 
+      "price": 250, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/vinegret_IIFXcnT/9a9e2f74ab69132c7411fa438597e241.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Салаты" 
+    }, 
+    { 
+      "id": 71, 
+      "title": "Ачичук", 
+      "subtitle": "Огурцы, помидоры, болгарский перец, укроп", 
+      "weight": 230, 
+      "price": 240, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/achichuk_SoXNKP0/68f56b6898900ffd7c3f1763ba5befc5.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Салаты" 
+    }, 
+    { 
+      "id": 72, 
+      "title": "Капустный с майонезом", 
+      "subtitle": "Капуста, огурцы, масло или майонез на выбор", 
+      "weight": 200, 
+      "price": 230, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/kapustnyj_s_majonezom_PpaiHe7/ae801c83fb01fe1ee72550d1c3c1aba1.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Салаты" 
+    }, 
+    { 
+      "id": 73, 
+      "title": "Фанта", 
+      "subtitle": "Фанта 0.25 в алюминевой банке", 
+      "weight": 0.25, 
+      "price": 90, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/0F7A8654_ryJgNdO_x6Vxaf8/a7c83133b775fcdbfc69d434e1642f2c.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Напитки" 
+    }, 
+    { 
+      "id": 74, 
+      "title": "Спрайт", 
+      "subtitle": "Спрайт 0.25 в алюминевой банке", 
+      "weight": 0.25, 
+      "price": 90, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/0F7A8654_ryJgNdO_x6Vxaf8/a7c83133b775fcdbfc69d434e1642f2c.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Напитки" 
+    }, 
+    { 
+      "id": 75, 
+      "title": "Кока-Кола", 
+      "subtitle": "Кока-Кола 0.25 л. в алюминевой банке", 
+      "weight": 0.25, 
+      "price": 90, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/0F7A8654_ryJgNdO_x6Vxaf8/a7c83133b775fcdbfc69d434e1642f2c.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Напитки" 
+    }, 
+    { 
+      "id": 76, 
+      "title": "Фанта", 
+      "subtitle": "Фанта 1 л. в бутылке", 
+      "weight": 1, 
+      "price": 170, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/0F7A8651_WEnr9EA_MooVV1F_0scCSQi/50862a0316bef31ade7f42181d36529b.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Напитки" 
+    }, 
+    { 
+      "id": 77, 
+      "title": "Спрайт",
+      "subtitle": "Спрайт 1 л. в бутылке", 
+      "weight": 1, 
+      "price": 170, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/0F7A8651_WEnr9EA_MooVV1F_0scCSQi/50862a0316bef31ade7f42181d36529b.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Напитки" 
+    }, 
+    { 
+      "id": 78, 
+      "title": "Кока-Кола", 
+      "subtitle": "Кока-Кола 1 л. в бутылке", 
+      "weight": 1, 
+      "price": 170, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/0F7A8651_WEnr9EA_MooVV1F_0scCSQi/50862a0316bef31ade7f42181d36529b.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Напитки" 
+    }, 
+    { 
+      "id": 79, 
+      "title": "Компот из ягод", 
+      "subtitle": "Ягодный компот", 
+      "weight": 1, 
+      "price": 250, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/kompot_vtJKCpo/b87ba280c363b7989075d4fe5136ab13.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Напитки" 
+    }, 
+    { 
+      "id": 80, 
+      "title": "Фирменный напиток Бухара", 
+      "subtitle": "Чалап", 
+      "weight": "0.25/1", 
+      "price": 120, 
+      "images": "https://assorti.kg/media/CACHE/images/uploads/restaurant/dishes/firm_napitok_Buhara_SmlAPCU/3a01fffa0607399d3fca434e5beacf06.jpg", 
+      "info": [17.23, 7.63, 22.35, 234], 
+      "category": "Напитки" 
+    } 
+  ] 
+}

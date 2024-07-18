@@ -1,0 +1,13 @@
+.navbar {
+  background: #403C3B;
+  padding: 29px 0;
+  &__list {
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+  }
+  &__item {
+    color: #CFCFCF;
+    font-size: 18px;
+  }
+}
